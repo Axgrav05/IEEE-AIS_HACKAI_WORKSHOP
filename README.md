@@ -16,8 +16,8 @@ By the end of this workshop, participants will:
 ## Repository Contents
 This repository contains the following files:
 
-- **`ml_workshop_solution.ipynb`** → Instructor’s full solution notebook with explanations.
-- **`ml_workshop_template.ipynb`** → Student’s guided template notebook with `#TODO` sections.
+- **`IEEE_AIS_Solution.ipynb`** → Instructor’s full solution notebook with explanations.
+- **`IEEE_AIS_Template.ipynb`** → Student’s guided template notebook with `#TODO` sections.
 - **`README.md`** → This document with workshop details and instructions.
 
 ## Installation & Setup
@@ -35,7 +35,7 @@ pip install numpy pandas seaborn matplotlib scikit-learn
 ## Instructions for Participants
 1. **Clone this repository** or open the student template in Google Colab.
 2. Work through the notebook, filling in the `#TODO` sections.
-3. Use `ml_workshop_solution.ipynb` as a reference if needed.
+3. Use `IEEE_AIS_Solution.ipynb` as a reference if needed.
 4. Experiment with different machine learning models and hyperparameters!
 
 ## Contributing
